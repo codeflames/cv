@@ -15,35 +15,15 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Alphabase Headway (Contract). </span>
 ##### Nov 2021 - Jan 2022
- - Converted UI to code as required in both business and technical documentations for great user experiences.
- - Implemented the getx statemanagemet pattern.
+ _- Converted UI to code as required in both business and technical documentations for great user experiences.
+ - Implemented the getx statemanagemet pattern._
 
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Attenvo (Contract). </span>
 ##### Aug 2021 - Sept 2021
  - Built and prototyped an app to cover a business use case among the plethora of the organization's services.
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
