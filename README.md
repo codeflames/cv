@@ -5,13 +5,13 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 [Email](mailto:yerekadonald@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yereka-ueh-kabari-ab242b169/) | [Github](https://github.com/codeflames/)\
 ✆ Phone: +2348159524738, +2349031561331
 
-### 👩🏼‍💻 <span style="color:orange">Engineering Experience. </span>
-<span style="color:orange"> --- </span>
+### 👩🏼‍💻 <span style="color:orange">Engineering Experience.
+ ---
 
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Chigisoft Ltd. </span>
 ##### Mar 2021 - Present (1+ years)
- - Create, maintain, and implement source code to develop mobile apps and mobile platform programs that meet the needs and requirements as speculated in the design and business documentation.
- - Design prototype applications for evaluation, provide the unit structure, and help the application development team and product team in plans.
+ > - Create, maintain, and implement source code to develop mobile apps and mobile platform programs that meet the needs and requirements as speculated in the design and business documentation.
+ > - Design prototype applications for evaluation, provide the unit structure, and help the application development team and product team in plans.
  
 ---
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Alphabase Headway (Contract). </span>
@@ -23,7 +23,7 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 ---
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Attenvo (Contract). </span>
 ##### Aug 2021 - Sept 2021
- - Built and prototyped an app to cover a business use case among the plethora of the organization's services.
+ > - Built and prototyped an app to cover a business use case among the plethora of the organization's services.
 ---
 
 
