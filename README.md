@@ -16,7 +16,7 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Alphabase Headway (Contract). </span>
 ##### Nov 2021 - Jan 2022
 
-> Converted UI to code as required in both business and technical documentations for great user experiences._
+> Converted UI to code as required in both business and technical documentations for great user experiences.\
 > Implemented the getx statemanagemet pattern.
 
 ---
