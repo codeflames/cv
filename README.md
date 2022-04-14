@@ -1,4 +1,4 @@
-## <span style="color:orange">Ueh-kabari, Yereka</span>.
+an style="color:orange">Ueh-kabari, Yereka</span>.
 
 Mobile engineer and technology enthusiast using flutter and dart to create business and user friendly experiences.
 
@@ -6,7 +6,7 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 ✆ Phone: +2348159524738, +2349031561331
 
 ### 👩🏼‍💻 <span style="color:orange">Engineering Experience. </span>
-<span style="color:orange" --- </span>
+<span style="color:orange"> --- </span>
 
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Chigisoft Ltd. </span>
 ##### Mar 2021 - Present (1+ years)
