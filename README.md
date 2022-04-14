@@ -1,6 +1,6 @@
 ## <span style="color:orange">Ueh-kabari, Yereka</span>.
 
-Mobile engineer and technology enthusiast using flutter and dart to create business and user friendly experiences.
+Mobile engineer and technology enthusiast creating commercial and user-friendly experiences with flutter and dart.
 
 [Email](mailto:yerekadonald@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yereka-ueh-kabari-ab242b169/) | [Github](https://github.com/codeflames/)\
 ✆ Phone: +2348159524738, +2349031561331
@@ -10,19 +10,19 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Chigisoft Ltd. </span>
 ##### Mar 2021 - Present (1+ years)
- > - Create, maintain, and implement source code to develop mobile apps and mobile platform programs that meet the needs and requirements as speculated in the design and business documentation.
- > - Design prototype applications for evaluation, provide the unit structure, and help the application development team and product team in plans.
+ > - Develop, manage, and implement source code to create mobile apps and mobile platform programs that match the objectives and specifications outlined in the design and business documentation.
+ > - Create prototype apps for review, offer unit structure, and assist the application development and product teams with planning.
  
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Alphabase Headway (Contract). </span>
 ##### Nov 2021 - Jan 2022
 
-> - Converted UI to code as required in both business and technical documentations for great user experiences.
-> - Implemented the getx state management pattern for quick prototyping.
+> - Converted user interfaces to code as needed in both business and technical documentation to provide excellent user experiences.
+> - For rapid prototyping, I used the getx state management pattern.
 
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Attenvo (Contract). </span>
 ##### Aug 2021 - Sept 2021
- > - Built and prototyped an app to cover a business use case among the plethora of the organization's services.
- > - Worked close to the product team to provide great user experience.
+ > - Developed and prototyped an app to cover a business use case among the organization's many offerings.
+ > - I collaborated closely with the product team to deliver an excellent user experience.
  
 ---
 ### 📚 <span style="color:orange">Projects.</span>
