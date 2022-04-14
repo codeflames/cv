@@ -24,10 +24,10 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
  > - Built and prototyped an app to cover a business use case among the plethora of the organization's services.
 ---
 
-### 👩🏼‍💻 <span style="color:orange">Education.</span>
+### 📚 <span style="color:orange">Education.</span>
  ---
  
- #### 👩🏼‍💻 <span style="color:violet">University of Port Harcourt - B.Sc Human Anatomy. </span>
+ #### 📚 <span style="color:violet">University of Port Harcourt - B.Sc Human Anatomy. </span>
 ##### 2014 - 2018
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
