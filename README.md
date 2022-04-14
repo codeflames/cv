@@ -3,8 +3,11 @@
 Mobile engineer and technology enthusiast using flutter and dart to create business and user friendly experiences.
 
 Email: [yerekadonald@gmail.com](yerekadonald@gmail.com)
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yereka-ueh-kabari-ab242b169/) 
-Github[codeflames](https://github.com/codeflames/)
+
+Github: [codeflames](https://github.com/codeflames/)
+
 ✆ Phone: +2348159524738, +2349031561331
 
 ### 👩🏼‍💻 <span style="color:blue"> Engineering Experience </span>.
