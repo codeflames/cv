@@ -16,12 +16,13 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Alphabase Headway (Contract). </span>
 ##### Nov 2021 - Jan 2022
 
-> - Converted UI to code as required in both business and technical documentations for great user experiences.\
-> - Implemented the getx statemanagemet pattern.
+> - Converted UI to code as required in both business and technical documentations for great user experiences.
+> - Implemented the getx state management pattern for quick prototyping.
 
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Attenvo (Contract). </span>
 ##### Aug 2021 - Sept 2021
  > - Built and prototyped an app to cover a business use case among the plethora of the organization's services.
+ > - Worked close to the product team to provide great user experience.
 ---
 
 ### 📚 <span style="color:orange">Education.</span>
