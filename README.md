@@ -47,10 +47,10 @@ Mobile engineer and technology enthusiast creating commercial and user-friendly 
 ### 📚 <span style="color:orange">Education.</span>
 ---
 #### 📚 Altschool Africa - Software engineering diploma.
-`2022 - present`
+`2022 - 2023`
 
 #### 📚 Alx Africa software engineering in collaboration with Holberton school of software engineering.
-`2022 - present`
+`2022 - 2023`
 
 #### 📚 Harvard's university CS50 - Introduction to computer science.
 `2020`
