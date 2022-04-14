@@ -10,13 +10,13 @@ Github: [codeflames](https://github.com/codeflames/)
 
 ✆ Phone: +2348159524738, +2349031561331
 
-### 👩🏼‍💻 <span style="color:blue"> Engineering Experience </span>.
+### 👩🏼‍💻 <span style="color:orange"> Engineering Experience </span>.
 
-##### Mobile Developer
-###### Chigisoft
-`Mar 2021 - Present (1 year+)`
-  - Create, maintain, and implement source code to develop mobile apps and mobile platform programs that meet the needs and requirements as speculated in the design and business documentation.
- - Design prototype applications for evaluation, provide the unit structure, and help the application development team and product team in plans .
+#### Mobile Developer
+##### Chigisoft
+##### Mar 2021 - Present (1 year+)
+ ' - Create, maintain, and implement source code to develop mobile apps and mobile platform programs that meet the needs and requirements as speculated in the design and business documentation.
+ - Design prototype applications for evaluation, provide the unit structure, and help the application development team and product team in plans .'
 
 
 ### Markdown
