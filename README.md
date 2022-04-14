@@ -6,7 +6,8 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 ✆ Phone: +2348159524738, +2349031561331
 
 ### 👩🏼‍💻 <span style="color:orange">Engineering Experience. </span>
----
+<span style="color:orange" --- </span>
+
 #### 👩🏼‍💻 <span style="color:violet">Mobile Developer @ Chigisoft Ltd. </span>
 ##### Mar 2021 - Present (1+ years)
  - Create, maintain, and implement source code to develop mobile apps and mobile platform programs that meet the needs and requirements as speculated in the design and business documentation.
