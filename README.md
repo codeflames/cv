@@ -28,11 +28,10 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 ### 📚 <span style="color:orange">Projects.</span>
 ---
 #### 👩🏼‍💻 <span style="color:violet">Pointograph - [Android](https://play.google.com/store/apps/details?id=app.pointograph.com). </span>
-<span style="color:blue">
 > With Pointograph you can give any place on earth any address you like irrespective of location, with same liberty of choice like email addresses.
 > This solves a huge problem: many places involving up to half of the human population that could not have an address before now, can.
 > Such places include slums in cities, many rural areas, newly developing parts of cities etc.
-</span>
+
 ---
 
 ### 📚 <span style="color:orange">Education.</span>
