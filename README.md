@@ -26,17 +26,17 @@ Mobile engineer and technology enthusiast using flutter and dart to create busin
 
 ### 📚 <span style="color:orange">Education.</span>
 ---
-#### 📚 <span style="color:violet">Altschool Africa - Software engineering diploma. </span>
-##### 2022 - present
+#### 📚 Altschool Africa - Software engineering diploma.
+`2022 - present`
 
-#### 📚 <span style="color:violet">Alx Africa software engineering in collaboration with Holberton school of software engineering. </span>
-##### 2022 - present
+#### 📚 Alx Africa software engineering in collaboration with Holberton school of software engineering.
+`2022 - present`
 
-#### 📚 <span style="color:violet">Harvard's university CS50 - Introduction to computer science. </span>
-##### 2020
+#### 📚 Harvard's university CS50 - Introduction to computer science.
+`2020`
 
-#### 📚 <span style="color:violet">University of Port Harcourt - B.Sc Human Anatomy. </span>
-##### 2014 - 2018
+#### 📚 University of Port Harcourt - B.Sc Human Anatomy.
+`2014 - 2018`
 
 ---
 
