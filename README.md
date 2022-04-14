@@ -25,19 +25,19 @@ Mobile engineer and technology enthusiast creating commercial and user-friendly 
  > - I collaborated closely with the product team to deliver an excellent user experience.
  
 ---
-### 📚 <span style="color:orange">Projects.</span>
+### 💻 <span style="color:orange">Projects.</span>
 ---
-#### 👩🏼‍💻 <span style="color:violet">Pointograph - [Android](https://play.google.com/store/apps/details?id=app.pointograph.com). </span>
+#### 💻 <span style="color:violet">Pointograph - [Android](https://play.google.com/store/apps/details?id=app.pointograph.com). </span>
 > <span style="color:SteelBlue"> I led the team that successfully executed pointograph and continue to maintain it. </span>\
 > With Pointograph you can give any place on earth any address you like irrespective of location, with same liberty of choice like email addresses.
 > This solves a huge problem: many places involving up to half of the human population that could not have an address before now, can.
 > Such places include slums in cities, many rural areas, newly developing parts of cities etc.
 
-#### 👩🏼‍💻 <span style="color:violet">Eaglesnest - [Web](https://app.eaglesnest.live). </span>
+#### 💻 <span style="color:violet">Eaglesnest - [Web](https://app.eaglesnest.live). </span>
 > <span style="color:SteelBlue"> I led the team that executed and is maintaining Eaglesnest web app using flutter. </span>\
 > Eaglesnest is a voting app that enables users take part in the Salvation Ministries' eaglesnest program by voting for their top three finalists.
 
-#### 👩🏼‍💻 <span style="color:violet">Flitaa - [Android](https://play.google.com/store/apps/details?id=com.flitaa.app) | [iOS](https://apps.apple.com/ng/app/flitaa/id1566777501). </span>
+#### 💻 <span style="color:violet">Flitaa - [Android](https://play.google.com/store/apps/details?id=com.flitaa.app) | [iOS](https://apps.apple.com/ng/app/flitaa/id1566777501). </span>
 > <span style="color:SteelBlue"> I was part of the team that executed and is maintaining Flitaa </span>\
 > An all in one platform to store, buy, sell, swap, learn and earn crypto. Accept and securely store bitcoin and other cryptocurrencies.
 > You will be able to: Buy, sell & trade Multiple cryptocurrencies as low as $1.
